@@ -2,3 +2,4 @@ numpy
 seaborn
 scipy
 plotly
+voila
